@@ -6,14 +6,14 @@ Juanjo's skills
 >   <a href="https://www.python.org" target="_blank" rel="noreferrer">
 > <img
 > src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-> alt="python" width="25" height="25"/> </a>  <a
+> alt="python" width="25" height="25"/> </a>  <a href="https://dart.dev"
+> target="_blank" rel="noreferrer"> <img
+> src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+> alt="dart" width="25" height="25"/> </a><a
 > href="https://www.w3schools.com/cpp/" target="_blank"
 > rel="noreferrer"> <img
 > src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-> alt="cplusplus" width="25" height="25"/> </a> <a
-> href="https://dart.dev" target="_blank" rel="noreferrer"> <img
-> src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-> alt="dart" width="25" height="25"/> </a>
+> alt="cplusplus" width="25" height="25"/> </a>
 
  
  <h4 align="left">Frameworks:</h4>
